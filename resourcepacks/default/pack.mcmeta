@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "The default minecraft textures, put this above the other one for normal textures"
+  }
+}
